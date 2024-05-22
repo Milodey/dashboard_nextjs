@@ -1,0 +1,202 @@
+[
+    {
+        "slNo": 1,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/001",
+        "grievanceChannel": "Phone",
+        "natureOfGrievance": "DOB Issue",
+        "status": "Pending",
+        "date": "2024-05-21"
+    },
+    {
+        "slNo": 2,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/002",
+        "grievanceChannel": "Walkin",
+        "natureOfGrievance": "NRC related",
+        "status": "Resolved",
+        "date": "2024-05-20"
+    },
+    {
+        "slNo": 3,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/003",
+        "grievanceChannel": "CRM Cases",
+        "natureOfGrievance": "Duplicate case",
+        "status": "Pending",
+        "date": "2024-05-19"
+    },
+    {
+        "slNo": 4,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/004",
+        "grievanceChannel": "Helpdesk",
+        "natureOfGrievance": "Gender Update",
+        "status": "Resolved",
+        "date": "2024-05-18"
+    },
+    {
+        "slNo": 5,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/005",
+        "grievanceChannel": "Phone",
+        "natureOfGrievance": "Name Updation",
+        "status": "Pending",
+        "date": "2024-05-17"
+    },
+    {
+        "slNo": 6,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/006",
+        "grievanceChannel": "Walkin",
+        "natureOfGrievance": "Authentication",
+        "status": "Resolved",
+        "date": "2024-05-16"
+    },
+    {
+        "slNo": 7,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/007",
+        "grievanceChannel": "CRM Cases",
+        "natureOfGrievance": "Corruption",
+        "status": "Pending",
+        "date": "2024-05-15"
+    },
+    {
+        "slNo": 8,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/008",
+        "grievanceChannel": "Helpdesk",
+        "natureOfGrievance": "Biometric authentication",
+        "status": "Resolved",
+        "date": "2024-05-14"
+    },
+    {
+        "slNo": 9,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/009",
+        "grievanceChannel": "Phone",
+        "natureOfGrievance": "MISC",
+        "status": "Pending",
+        "date": "2024-05-13"
+    },
+    {
+        "slNo": 10,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/010",
+        "grievanceChannel": "Walkin",
+        "natureOfGrievance": "DOB Update",
+        "status": "Resolved",
+        "date": "2024-05-12"
+    },
+    {
+        "slNo": 11,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/011",
+        "grievanceChannel": "CRM Cases",
+        "natureOfGrievance": "NRC related",
+        "status": "Pending",
+        "date": "2024-05-11"
+    },
+    {
+        "slNo": 12,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/012",
+        "grievanceChannel": "Helpdesk",
+        "natureOfGrievance": "Duplicate case",
+        "status": "Resolved",
+        "date": "2024-05-10"
+    },
+    {
+        "slNo": 13,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/013",
+        "grievanceChannel": "Phone",
+        "natureOfGrievance": "Gender Update",
+        "status": "Pending",
+        "date": "2024-05-09"
+    },
+    {
+        "slNo": 14,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/014",
+        "grievanceChannel": "Walkin",
+        "natureOfGrievance": "Name Updation",
+        "status": "Resolved",
+        "date": "2024-05-08"
+    },
+    {
+        "slNo": 15,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/015",
+        "grievanceChannel": "CRM Cases",
+        "natureOfGrievance": "Authentication",
+        "status": "Pending",
+        "date": "2024-05-07"
+    },
+    {
+        "slNo": 16,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/016",
+        "grievanceChannel": "Helpdesk",
+        "natureOfGrievance": "Corruption",
+        "status": "Resolved",
+        "date": "2024-05-06"
+    },
+    {
+        "slNo": 17,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/017",
+        "grievanceChannel": "Phone",
+        "natureOfGrievance": "Biometric authentication",
+        "status": "Pending",
+        "date": "2024-05-05"
+    },
+    {
+        "slNo": 18,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/018",
+        "grievanceChannel": "Walkin",
+        "natureOfGrievance": "MISC",
+        "status": "Resolved",
+        "date": "2024-05-04"
+    },
+    {
+        "slNo": 19,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/019",
+        "grievanceChannel": "CRM Cases",
+        "natureOfGrievance": "DOB Update",
+        "status": "Pending",
+        "date": "2024-05-03"
+    },
+    {
+        "slNo": 20,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/020",
+        "grievanceChannel": "Helpdesk",
+        "natureOfGrievance": "NRC related",
+        "status": "Resolved",
+        "date": "2024-05-02"
+    },
+    {
+        "slNo": 21,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/021",
+        "grievanceChannel": "Phone",
+        "natureOfGrievance": "Duplicate case",
+        "status": "Pending",
+        "date": "2024-05-01"
+    },
+    {
+        "slNo": 22,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/022",
+        "grievanceChannel": "Walkin",
+        "natureOfGrievance": "Gender Update",
+        "status": "Resolved",
+        "date": "2024-04-30"
+    },
+    {
+        "slNo": 23,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/023",
+        "grievanceChannel": "CRM Cases",
+        "natureOfGrievance": "Name Updation",
+        "status": "Pending",
+        "date": "2024-04-29"
+    },
+    {
+        "slNo": 24,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/024",
+        "grievanceChannel": "Helpdesk",
+        "natureOfGrievance": "Authentication",
+        "status": "Resolved",
+        "date": "2024-04-28"
+    },
+    {
+        "slNo": 25,
+        "qrnNo": "QRN/RO-GHY/UIDAI/CRM/025",
+        "grievanceChannel": "Phone",
+        "natureOfGrievance": "Corruption",
+        "status": "Pending",
+        "date": "2024-04-27"
+    }
+]
