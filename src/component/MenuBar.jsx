@@ -6,27 +6,27 @@ const MenuBar = () => {
         <nav className={styles.navbar}>
             <ul>
                 <li >
-                    <Link href="/">
+                    <Link href="/" passHref  >
                         Home
                     </Link>
                 </li>
                 <li>
-                    <Link href="/dashboard">
+                    <Link href="/dashboard" passHref  >
                         Dashboard
                     </Link>
                 </li>
                 <li>
-                    <Link href="/dashboard/crm">
+                    <Link href="/dashboard/crm" passHref  >
                         CRM
                     </Link>
                 </li>
                 <li>
-                    <Link href="/dashboard/dbt">
+                    <Link href="/dashboard/dbt" passHref  >
                         DBT
                     </Link>
                 </li>
                 <li>
-                    <Link href="/dashboard/saturation">
+                    <Link href="/dashboard/saturation" passHref  >
                         Saturation
                     </Link>
                 </li>

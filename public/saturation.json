@@ -1,0 +1,188 @@
+{
+    "states": [
+        {
+            "name": "Assam",
+            "totalAadhar": 3000000,
+            "totalEnrollment": 3500000,
+            "totalPopulation": 4000000,
+            "saturation": 75,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 500000,
+                    "totalEnrollment": 600000,
+                    "totalPopulation": 700000,
+                    "saturation": 71
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 600000,
+                    "totalEnrollment": 700000,
+                    "totalPopulation": 800000,
+                    "saturation": 75
+                }
+            ]
+        },
+        {
+            "name": "Meghalaya",
+            "totalAadhar": 1500000,
+            "totalEnrollment": 1800000,
+            "totalPopulation": 2000000,
+            "saturation": 90,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 300000,
+                    "totalEnrollment": 350000,
+                    "totalPopulation": 400000,
+                    "saturation": 87
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 500000,
+                    "totalEnrollment": 550000,
+                    "totalPopulation": 600000,
+                    "saturation": 92
+                }
+            ]
+        },
+        {
+            "name": "Manipur",
+            "totalAadhar": 1200000,
+            "totalEnrollment": 1400000,
+            "totalPopulation": 1600000,
+            "saturation": 85,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 250000,
+                    "totalEnrollment": 300000,
+                    "totalPopulation": 350000,
+                    "saturation": 82
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 400000,
+                    "totalEnrollment": 450000,
+                    "totalPopulation": 500000,
+                    "saturation": 88
+                }
+            ]
+        },
+        {
+            "name": "Arunachal Pradesh",
+            "totalAadhar": 1000000,
+            "totalEnrollment": 1200000,
+            "totalPopulation": 1400000,
+            "saturation": 80,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 200000,
+                    "totalEnrollment": 250000,
+                    "totalPopulation": 300000,
+                    "saturation": 83
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 350000,
+                    "totalEnrollment": 400000,
+                    "totalPopulation": 450000,
+                    "saturation": 89
+                }
+            ]
+        },
+        {
+            "name": "Nagaland",
+            "totalAadhar": 1100000,
+            "totalEnrollment": 1300000,
+            "totalPopulation": 1500000,
+            "saturation": 88,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 220000,
+                    "totalEnrollment": 270000,
+                    "totalPopulation": 320000,
+                    "saturation": 84
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 400000,
+                    "totalEnrollment": 450000,
+                    "totalPopulation": 500000,
+                    "saturation": 90
+                }
+            ]
+        },
+        {
+            "name": "Tripura",
+            "totalAadhar": 900000,
+            "totalEnrollment": 1100000,
+            "totalPopulation": 1300000,
+            "saturation": 85,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 200000,
+                    "totalEnrollment": 250000,
+                    "totalPopulation": 300000,
+                    "saturation": 83
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 350000,
+                    "totalEnrollment": 400000,
+                    "totalPopulation": 450000,
+                    "saturation": 89
+                }
+            ]
+        },
+        {
+            "name": "Sikkim",
+            "totalAadhar": 800000,
+            "totalEnrollment": 900000,
+            "totalPopulation": 1000000,
+            "saturation": 90,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 150000,
+                    "totalEnrollment": 200000,
+                    "totalPopulation": 250000,
+                    "saturation": 80
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 300000,
+                    "totalEnrollment": 350000,
+                    "totalPopulation": 400000,
+                    "saturation": 88
+                }
+            ]
+        },
+        {
+            "name": "Mizoram",
+            "totalAadhar": 700000,
+            "totalEnrollment": 800000,
+            "totalPopulation": 900000,
+            "saturation": 78,
+            "districts": [
+                {
+                    "name": "District 1",
+                    "totalAadhar": 100000,
+                    "totalEnrollment": 150000,
+                    "totalPopulation": 200000,
+                    "saturation": 75
+                },
+                {
+                    "name": "District 2",
+                    "totalAadhar": 250000,
+                    "totalEnrollment": 300000,
+                    "totalPopulation": 350000,
+                    "saturation": 86
+                }
+            ]
+        }
+    ]
+}

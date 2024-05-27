@@ -1,7 +1,12 @@
 .navbar {
-    background-color: #333;
+    position: sticky;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    /* Transparent black background */
     color: white;
     padding: 10px 20px;
+    z-index: 1000;
+    /* Ensure it stays on top of other content */
 }
 
 .navbar ul {
