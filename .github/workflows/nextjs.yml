@@ -1,7 +1,26 @@
+name: Deploy Next.js site to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Use ubuntu-latest to avoid Windows-specific issues
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,7 +53,7 @@ jobs:
         uses: actions/configure-pages@v5
         with:
           static_site_generator: next
-          enablement: true  # This line enables GitHub Pages automatically
+          enablement: true  # Automatically enable GitHub Pages if not already enabled
 
       - name: Restore cache
         uses: actions/cache@v4
